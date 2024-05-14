@@ -2,7 +2,7 @@
 
 # Requisito do projeto
 
-O projeto consiste no desenvolvimento de uma calculadora de IMC(índice de massa corporal. A calculadora deve ser desenvolvido utilizando Swift. O layout deve ser layout responsivo.
+O projeto consiste no desenvolvimento de uma calculadora de IMC(índice de massa corporal). A calculadora deve ser desenvolvido utilizando Swift. O layout deve ser layout responsivo.
 
 ## Apresentação
 
